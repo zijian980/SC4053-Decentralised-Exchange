@@ -1,5 +1,10 @@
 # SC4053 DEX Project
 
+## Team Members
+1. Chong Yao
+2. Zi Jian
+3. Chester
+
 ## Project Overview
 
 Our project consists of the following components:
